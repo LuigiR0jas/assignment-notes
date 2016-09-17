@@ -1,0 +1,36 @@
+Programación Visual
+
+Teoría: 3 parciales (33,33%)
+        1 recuperativo (sus. la mayor nota)
+
+Lab: Prácticas semanales
+
+    Contenido General:
+-App 2 capas
+    Interfaces
+    Uso de DB
+-App multi capas
+    Acceso Remoto
+    Arq. de software
+-Reportes
+
+    Aspectos a manejar
+        Algoritmos
+        Programación:
+            Lenguajes
+            SQL
+        Diseño:
+            Arquitectura de software
+            DB
+        Pruebas
+            Unidad
+            Stress
+            Integración
+            Aceptación
+-------------------------------------------------------------------------------------------------------------
+Buscar y hacer para la prox. clase : Sistema ERP (SAP)
+                                     Tablas Maestras-Tablas Detalles
+                                     Modelo de Base de datos para una tienda de gorras
+
+    Bases de datos relacionales: Bases de datos cuya arquitectura de datos se conforma con relaciones
+    entre los datos, que se encuentran en tablas.
