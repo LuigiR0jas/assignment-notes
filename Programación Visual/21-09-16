@@ -1,0 +1,16 @@
+Programación orientada a eventos:
+Paradigma de programación destinado a establecer funcionalidad a medida que el usuario haga una acción-
+
+Inventario:
+|
+|---id_inventario
+|---de_inventario
+
+
+db: producto
+tabla: inventario:|
+                  |-id_inventario
+                  |-de_inventario
+
+En RAD studio:
+Buscar el Tdbgrid
