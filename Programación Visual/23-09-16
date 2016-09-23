@@ -1,0 +1,11 @@
+Entorno visual:
+  -Componente: Una entidad que forma parte de un sistema, con una función específica.
+  -Evento
+  -Tecnologías
+  -Distribución de procesos:
+    -Hilos
+    -Interoperabilidad
+
+
+Object Request Broker: Es como un fiscal que regula la comunicacion entre servidor y cliente.
+Socket: Componente de software que permite las conexiones mediante puertos. 
