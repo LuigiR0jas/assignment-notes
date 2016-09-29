@@ -1,0 +1,9 @@
+
+DB<---- alias <---- connection (TADOconnection) <---- data set (TADOQuery) <---- data source (TDataSource)
+<---- DBgrid
+Tarea:
+Sobre la tabla de producto hacer un dialogo de mantenimiento que permita:
+  -Insertar productos
+  -Buscar un producto por el id
+  -Borrar producto
+  -Modificar nombres de producto
