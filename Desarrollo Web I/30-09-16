@@ -1,0 +1,9 @@
+Desarrollo Web I
+
+-Análisis del problema
+-Diagramas de casos de usuarioListade requerimientos
+-Mapa del sitio (en SPA)
+-Generación de interfaces
+--------------------------------------------------------
+Generar una aplicación web que permita la carga de archivos de texto empleando File API, y que
+muestre los datos y el contenido del archivo cargado.
