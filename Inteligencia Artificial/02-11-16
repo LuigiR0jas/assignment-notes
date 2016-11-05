@@ -1,0 +1,57 @@
+-Definiciones de los Sistemas Expertos
+
+Es un software que imita el comportamiento de un experto humano en la solución de un problema. Pueden almacenar conocimiento de expertos para
+un campo determinado y solucionar un problema mediante deducción lógica de conclusiones.
+
+Se realizan haciendo explícito el conocimiento en ellos, que tienen información específica de un dominio concreto y que realizan una tarea
+relativa del dominio. Contiene tanto conocimiento declarativo (hechos acerca de objetos, eventos y/o situaciones) como conocimiento de control
+(información acerca de los cursos de acción), para emular el proceso de razonamiento de los expertos humanos en un dominio en particular y/o
+ área de experiencia, incorporar conocimiento de expertos sobre un dominio de aplicación dado, de manera que es capaz, de resolver problemas de
+ relativa dificultad y apoyar la toma de decisiones inteligentes en base a un proceso de razonamiento simbólico.
+
+ -Aplicaciones
+ Los Sistemas expertos se aplican a una gran diversidad de campos y/o áreas.
+  -Militar
+  -Quimica
+  -Informática
+  -Telecomunicaciones
+  -Educacion
+  -Entre otros
+
+-Ventajas
+Estos programas proporcionan la capacidad de trabajar con grandes cantidades de información, que son uno de los grandes problemas que
+enfrentan el analista humano que puede afectar negativamente a la toma de decisiones, pues el analista humano puede depurar datos que no
+considere relevante, mientras un S.E debido a su gran velocidad de proceso, analiza toda la información incluyendo las no útiles para de esta
+manera aportar una decisión más sólida.
+
+
+-Los mecanismos de inferencia
+
+-Estadística: Aquella que utiliza data historica para, a través de metricas como:
+    -Media Muestral Poblacional
+    -Desviación estándar
+    -Error típico
+    -Valor Pi
+    -Porcentaje de Normalidad Muestral
+
+-Por reglas:
+    -
+
+-Limitaciones:
+  Es evidente que para actualizar se necesita de reprogramación de estos (tal vez este sea una de sus limitaciones mas acentuadas)
+  otras de sus limitaciones puede ser el elevado costo en dinero y tiempo, además que estos programas son poco flexibles a cambios y de difícil
+  acceso a información no estructurado.
+  Debido a la escasez de expertos humanos en determinadas áreas, los S.E pueden almacenar su conocimiento cuando sea necesario poder aplicarlo.
+  Así mismo los S.E pueden ser ulilicados por personas no especializadas para resolver problemas. Además si una persona utiliza con frencuencia
+  un S.E aprenderá de él.
+  Por otra parte la inteligencia artificial no ha podido desarrollar sistemas que sean capaces de resolver situaciones complejas ni de
+  controlar situaciones ambiguos.
+  El futuro de los S.E de vueltas por la cabeza de cada persona, siempre el campo elegido tenga la necesidad y/o presencia de un experto para
+  la obtención de cualquier tipo de beneficio.
+
+  Arquitectura Básica de los Sistemas Expertos:
+      -Base de conocimientos
+      -Base de hechos (memoria de trabajo)
+      -Motor de eficiencia
+      -Subsistema de explicación
+      -Interfaz de usuario

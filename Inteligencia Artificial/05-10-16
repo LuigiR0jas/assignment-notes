@@ -1,0 +1,48 @@
+Fundamentos Históricos de la IA:
+
+-Etapa Filosófica (428 B.C.E):
+Aristóteles formula las bases del pensamiento racional sobre el cual se desarolla el modelo de la toma de decisiones a
+partir de premisas iniciales.
+
+-Etapa Matemática (800):
+Bode introdujo el lenguaje numérico formal para hacer inferencias lógicas, basándose en los planteamientos de aristóteles.
+Se crea la primera representación básica del conocimiento.
+
+-Etapa psicológica (1879):
+El conocimiento conductista plantea el modelado del comportamiento basado premisas lógicas alteradas por la subjetividad
+natural del ser humano. Dichas variaciones deben ser entonces ubicadas y suprimidas. Primeros modelos de comportamiento
+racional.
+
+-Etapa informática (1940):
+La compilación digital se plantea como método único para simular la inteligencia. Alan Turing crea el primer computador
+moderno para la decodificación y crea el modelo de evaluación de modelos de comportamiento.
+Aparición de los lenguajes de alto nivel en 1945 por Konrad Zuse.
+
+-Etapa Lingüística (1957)
+Desarollo de lenguajes autoprogramables basados en la formalidad y buscando imitar el lenguaje racional.
+
+-----·-----·-----·-----·-----
+Trabajos destacados
+Shannon - 1950 Teoría de la información.
+Turing - 1953 - Test de Turing, Reconociendo la Máquina.
+Minsky y Edmonds - Redes Inteligentes.
+Mcarthy - 1958 - LISP.
+Widrow - 1979 - Dosis de Realidad en las Redes Neuronales.
+Sistemas basados en el conocimiento. Dendral, Mycin, Prolog, Shank, Prospector. (Lenguajes).
+Hopfield - 1986 - Redes Neurales y el descenso de los Sistemas Expertos.
+
+#EXAMEN 19-10
+
+Tendencias de la IA
+
+-Redes Neurales: Replicar los modelos de sinapsis neuronal en el procesamiento informático.
+
+-Agentes Inteligentes: El modelo de decisión se distribuye en múltiples agentes que al integrarse resuelven
+problemáticas complejas.
+
+-Algoritmos Genéticos: Decisiones heredables a subsistemas, modelos historicos estadísticos.
+
+-Robots Reactivos: Robots con capacidad de análisis del entorno que pueden ubicar y evadir obstáculos con capacidad
+de adaptación.
+
+-Domótica: Tecnología de viviendas inteligentes con información centralizada y/o sistemas expertos.

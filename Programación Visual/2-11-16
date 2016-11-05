@@ -1,0 +1,12 @@
+¿Cómo se define un objeto?
+
+·Constructor: Es un método que permite construirla instancia de un objeto.
+
+·Interfaz: Una clase diseñada para tener metodos y variables sin valor, sin estar definido, para que pueda
+ser implementada por otra clase.
+
+·Clase Abstracta: Una clase que no puede ser instanciada, pero si heredada por otras clases, y se crea
+para tener definidas variables y métodos, que pueden sobreescribir o usar sus clases hijas.
+
+·Polimorfismo: Son respuestas distintas a una misma llamada en diferentes clases que heredan de una clase abstracta
+o una misma clase.

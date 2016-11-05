@@ -1,0 +1,3 @@
+Hacer los módulos reutilizables que permitan guardar las sentencias sql en un archivo
+y permitir la ejecución de las mismas 
+pasando solo los parámetros exigidos por cada sentencia

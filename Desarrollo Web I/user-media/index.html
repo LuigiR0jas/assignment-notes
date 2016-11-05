@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/materialize.css">
+    <title>User Media</title>
+</head>
+
+<body>
+    <!-- Javascript -->
+    <script type="text/javascript" src="js/jquery-2.1.1.min.js" async defer></script>
+    <script type="text/javascript" src="js/materialize.min.js" async defer></script>
+    <script src="js/app.js" async defer></script>
+    <div class="container">
+        <div class="card">
+            <div class="row center">
+                <video id="captureVideo" controls autoplay="true">
+
+                </video>
+                <br>
+                <button id="recordButton" class="btn-large waves-effect waves-light blue" onclick="javascript:startRecording()">Grabar</button>
+            </div>
+            <div class="row center">
+                <video id="recordVideo" controls>
+
+                </video>
+                <br>
+                <button class="btn-large waves-effect waves-light blue">Reproducir</button>
+                <button class="btn-large waves-effect waves-light blue">Guardar</button>
+            </div>
+            <div class="row center">
+                <video id="savedVideo" controls>
+
+                </video>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
