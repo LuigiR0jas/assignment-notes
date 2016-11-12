@@ -23,8 +23,13 @@
             <div class="section">
 
                 <div class="input-field">
-                    <label for="id">ID</label>
-                    <input id="id" type="text" name="id" value="">
+                    <label for="username">Username</label>
+                    <input id="username" type="text" name="username" value="">
+                </div>
+
+                <div class="input-field">
+                    <label for="password">Password</label>
+                    <input id="password" type="password" name="password">
                 </div>
 
                 <div class="input-field">
@@ -38,13 +43,13 @@
                 </div>
 
                 <div class="input-field">
-                    <label for="date">Birthday</label>
-                    <input id="birthday" type="text" name="date" value="">
+                    <label class="active" for="date">Birthday</label>
+                    <input id="birthday" type="date" name="date" value="">
                 </div>
 
                 <div class="input-field">
-                    <label for="address">Address</label>
-                    <input id="address" type="text" name="address" value="">
+                    <label for="email">Email</label>
+                    <input id="email" type="text" name="email" value="">
                 </div>
 
                 <div class="container">
@@ -53,26 +58,16 @@
                             <button id="list" class="btn-large waves-effect waves-light green">List</button>
                         </div>
                         <div class="col s6 m6 l6">
-                            <button id="save" class="btn-large waves-effect waves-light blue">Save</button>
+                            <button onclick="javascript:saveUser()" id="save" class="btn-large waves-effect waves-light blue">Save</button>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div id="tableDiv" class="container">
-        <div class="section">
-            <table id="listTable">
-                <thead>
-                    <th>ID</th>
-                    <th>Name</th>
-                    <th>Lastname</th>
-                    <th></th>
-                </thead>
-                <tbody>
-                </tbody>
-            </table>
-        </div>
+    <div class="section row center">
+        <p>
+        </p>
     </div>
 </body>
 
