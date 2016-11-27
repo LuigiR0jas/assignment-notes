@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Workers</title>
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/materialize.css">
+    <!-- JS -->
+    <script type="text/javascript" src="js/jquery-2.1.1.min.js" async defer></script>
+    <script type="text/javascript" src="js/materialize.min.js" async defer></script>
+    <script src="/js/app.js" charset="utf-8"></script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="section row center">
+            <h1>Aplicación super cool</h1>
+        </div>
+        <div class="row center">
+            <span id="countSpan" class="col s12 m12 l12">Contador: 0</span>
+            <div class="section">
+                <div class="section center row">
+                    <button type="button" id="iniciar" onclick="javascript: startWorker()" class="btn-large waves-effect waves-light blue">Iniciar worker</button>
+                    <button type="button" id="detener" onclick="javascript: stopWorker()" class="btn-large waves-effect waves-light red">Detener worker</button>
+                <div class="section center row">
+                    <button type="button" id="iniciar" onclick="javascript: startSharedWorker()" class="btn-large waves-effect waves-light blue">Iniciar shared worker</button>
+                    <button type="button" id="detener" onclick="javascript: stopSharedWorker()" class="btn-large waves-effect waves-light red">Detener shared worker</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
